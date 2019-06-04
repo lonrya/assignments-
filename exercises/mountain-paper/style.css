@@ -1,0 +1,28 @@
+#center {
+    text-align: center;
+    font-style: bold; 
+}
+#lefty {
+    text-align: center;
+    font-style: italic;
+}
+#centered {
+    text-align: center;
+    font-style: bold;
+}
+.left {
+    text-align: left; 
+    width: 200px;
+    font-style: italic; 
+}
+.active {
+    text-align: right;
+    font-style: italic;
+
+}
+.activity {
+    text-align: right;
+    font-style: italic;
+    position: relative;
+    width: 200px;
+}

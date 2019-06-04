@@ -1,0 +1,21 @@
+#bodies {
+    background-color: #111111
+}
+#change {
+    text-align: center;
+    color: #E2E80F;
+    font-size: 30px; 
+    }
+.para{
+    color:#eeeeee;
+    font-size:1.4em;
+    line-height:1.2; 
+}
+.credits{
+    text-decoration: underline; 
+    color: #49daff;    
+}
+#film-description{
+    font-style: italic;
+    font-size:0.9em;
+}
