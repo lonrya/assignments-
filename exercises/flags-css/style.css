@@ -3,6 +3,7 @@
     height: 250px;
     border: 1px solid black;
     position: relative; 
+    margin: 20px;
 }
 #french-blue {
     width: 100px;
@@ -14,5 +15,66 @@
 
 }
 #french-red {
-
+    width: 100px;
+    background-color: red;
+    height: 250px; 
+    right: 0;
+    position: absolute; 
+}
+#german-red {
+    width: 300px;
+    height: 225px;
+    position: relative; 
+    background-color: red;
+    margin: 20px; 
+}
+#german-black {
+    width: 300px;
+    height: 75px;
+    background-color: black;
+    position: absolute;
+ 
+}
+#german-yellow {
+    width: 300px;
+    height: 75px;
+    background-color:yellow;
+    position: absolute;
+    bottom: 0; 
+}
+#madagascar-red {
+    width: 300px;
+    height: 225px;
+    position: relative; 
+    background-color: red;
+    margin: 20px; 
+}
+#madagascar-green {
+    width: 300px;
+    height: 112.5px;
+    position: absolute; 
+    background-color: green; 
+}
+#swiss-red {
+    width: 300px;
+    height: 225px;
+    background-color: red;
+    margin: 20px;
+    position: relative;
+}
+#swiss-verticalWhite {
+    width: 50px;
+    height: 90px;
+    background: white;
+    left: 130px;
+    top: 70px; 
+    position: absolute;
+}
+#swiss-horizontalWhite {
+    width: 100px;
+    height: 80px;
+    background: white;
+    left: 60px;
+    top: 60px; 
+    position: absolute;
 }

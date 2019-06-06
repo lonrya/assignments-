@@ -1,0 +1,19 @@
+.navbar {
+    position:fixed;
+    background-color: aquamarine;
+    text-align: center;
+    border: 10%;
+    padding: 1%;
+}
+.top{
+    display:inline-block; 
+}
+.center {
+    text-align: center;
+}
+.likes {
+    position: relative  
+}
+.secondaryLikes {
+    position: relative;
+}
